@@ -8,7 +8,8 @@ using namespace std;
 
 int main() {
 	testAll();
-	testAllExtended();
+    cout << "Short tests over" << endl;
+    testAllExtended();
 	
 	cout << "Test over" << endl;
 	system("pause");

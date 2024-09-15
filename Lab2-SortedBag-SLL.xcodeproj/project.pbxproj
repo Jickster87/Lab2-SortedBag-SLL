@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		8E2FC0352C970B8200074366 /* ExtendedTest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8E2FC02B2C970B8200074366 /* ExtendedTest.cpp */; };
-		8E2FC0362C970B8200074366 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8E2FC02C2C970B8200074366 /* main.cpp */; };
 		8E2FC0372C970B8200074366 /* ShortTest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8E2FC02E2C970B8200074366 /* ShortTest.cpp */; };
 		8E2FC0382C970B8200074366 /* SortedBagIterator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8E2FC0312C970B8200074366 /* SortedBagIterator.cpp */; };
 		8E2FC0392C970B8200074366 /* SortedBag.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8E2FC0332C970B8200074366 /* SortedBag.cpp */; };
@@ -31,7 +30,6 @@
 /* Begin PBXFileReference section */
 		8E2FC0212C970B5500074366 /* Lab2-SortedBag-SLL */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Lab2-SortedBag-SLL"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E2FC02B2C970B8200074366 /* ExtendedTest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ExtendedTest.cpp; sourceTree = "<group>"; };
-		8E2FC02C2C970B8200074366 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		8E2FC02D2C970B8200074366 /* ShortTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShortTest.h; sourceTree = "<group>"; };
 		8E2FC02E2C970B8200074366 /* ShortTest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ShortTest.cpp; sourceTree = "<group>"; };
 		8E2FC02F2C970B8200074366 /* SortedBagIterator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SortedBagIterator.h; sourceTree = "<group>"; };
@@ -76,7 +74,6 @@
 				8E2FC0342C970B8200074366 /* App.cpp */,
 				8E2FC02B2C970B8200074366 /* ExtendedTest.cpp */,
 				8E2FC0322C970B8200074366 /* ExtendedTest.h */,
-				8E2FC02C2C970B8200074366 /* main.cpp */,
 				8E2FC02E2C970B8200074366 /* ShortTest.cpp */,
 				8E2FC02D2C970B8200074366 /* ShortTest.h */,
 				8E2FC0332C970B8200074366 /* SortedBag.cpp */,
@@ -145,7 +142,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8E2FC0362C970B8200074366 /* main.cpp in Sources */,
 				8E2FC0392C970B8200074366 /* SortedBag.cpp in Sources */,
 				8E2FC03C2C974D5B00074366 /* temp.cpp in Sources */,
 				8E2FC0372C970B8200074366 /* ShortTest.cpp in Sources */,
